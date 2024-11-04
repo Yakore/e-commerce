@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074975695928",
+    "project_id": "tienda-0d6h3m",
+    "storage_bucket": "tienda-0d6h3m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074975695928:android:0897eaf8385caf4a5772cd",
+        "android_client_info": {
+          "package_name": "com.mycompany.tienda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZF6J6ONN13yDdlV5nlHTRZg98HoR4vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
